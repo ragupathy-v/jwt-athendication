@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+     margin: 0;
+     padding: 0;
+ }
+ 
+ .navbars{
+    
+     position: fixed;
+     background-color: rgb(214, 225, 230)
+     
+ 
+ }
+ 
+ .link{
+     text-decoration: none;
+     text-transform: capitalize;
+     font-weight: 500;
+     color: rgba(42, 50, 54, 0.466);
+     font-size: 20px;
+ }
